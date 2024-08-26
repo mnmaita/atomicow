@@ -1,0 +1,10 @@
+[package]
+name = "atomicow"
+version = "0.1.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+description = "A `Cow`-like data structure where owned data is stored inside an `Arc`."
+repository = "https://github.com/bevyengine/atomicow"
+readme = "README.md"
+
+[dependencies]
